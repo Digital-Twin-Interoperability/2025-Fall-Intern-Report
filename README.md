@@ -1,6 +1,11 @@
 # MoonWalker-Collision
-This project aims to improve and further Digital Twin Interoperability by exploring interaction and collision between two separate entities from two different simulation platforms. In our use case, we utilized NVIDIA Omniverse and Unity as our simulation platforms, having one rover for each. NVIDIA Omniverse hosted the Cadre rover while Unity hosted the Viper rover. This document summarizes the requirements for the Digital Twin Interoperability Collision Experiments to be recreated.
+This repository contains the documentation, weekly meetings for Fall 2025 Internships, and required scripts to build and test collision and interaction between two rovers in a digital twin environment (Unity and Omniverse Isaac Sim)
 **Note: NVIDIA Omniverse Isaac Sim has its setup documentation in [Omniverse Setup](https://github.com/Digital-Twin-Interoperability/2025-Fall-Intern-Report/blob/main/Scripts/Omniverse/Omniverse_Documentation.pdf)**
+
+ # Project Goals
+ - Rebuild previos Cohort's work of Digital Twin Interoperability with HSML schema
+ - Allow collision and interaction between two rovers simulated in two different platforms.
+ - Facilitate realistic physics between two simulation platforms.
 
  # Requirements
  ## NVIDIA Omniverse
